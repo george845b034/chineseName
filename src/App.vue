@@ -57,11 +57,11 @@
 	
 	/* Customize container */
 	
-	@media (min-width: 768px) {
+	/*@media (min-width: 768px) {
 		.container {
 			max-width: 730px;
 		}
-	}
+	}*/
 	
 	.container-narrow>hr {
 		margin: 30px 0;
